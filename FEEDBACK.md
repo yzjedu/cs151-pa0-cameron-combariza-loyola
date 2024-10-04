@@ -49,5 +49,5 @@
     - **YES-NO**
 
 ### Comments on the grading
-- 
-### Grade: 
+- There is no file to grade here. 
+### Grade: R
